@@ -3,7 +3,7 @@ public class Guerrero extends Personaje{
         super (id, nombre, nivel);
     }
     @Override 
-    public String realizaAcciones () {
+    public String realizarAccion () {
         return " Defiende con su espada el pueblo del peligro de los demonios";
     } 
 

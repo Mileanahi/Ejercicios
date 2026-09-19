@@ -3,7 +3,7 @@ public class Mago extends Personaje{
         super (id, nombre, nivel);
     }
     @Override 
-    public String realizaAcciones () {
+    public String realizarAccion () {
         return "Lanza un hechizo defensivo contra los demonios"; 
 
     } 
