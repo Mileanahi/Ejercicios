@@ -23,4 +23,8 @@ public class Personaje {
     public String realizarAccion() {
         return "realiza una acción básica.";
     }
+    public String realizaAcciones() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'realizaAcciones'");
+    }
 }
